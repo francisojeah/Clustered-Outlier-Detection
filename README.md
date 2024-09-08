@@ -32,7 +32,7 @@ This project performs cluster analysis to detect outliers within a dataset using
    ```
 
 3. **Open the Jupyter Notebook**
-   - Launch Jupyter Notebook and open `outlier_detection.ipynb`:
+   - Launch Jupyter Notebook and open `outlier_detection.ipynb`
 
 
 4. **Run the Notebook**
